@@ -1,8 +1,8 @@
-###  DATE: 
+###  DATE: 26-02-2025
 
-###  NAME: 
-###  ROLL NO :
-###  DEPARTMENT: 
+###  NAME: OVIYA P
+###  ROLL NO : 212223110033
+###  DEPARTMENT: B.E(CSE-IoT)
 
 
 
@@ -86,12 +86,24 @@ The main features of LPC2148 include the following.
 
 
 ## STM 32 CUBE PROGRAM :
-
+```
+#include "main.h"
+#include "stdio.h"
+while (1)
+{
+	  HAL_GPIO_WritePin(GPIOA, GPIO_PIN_0, GPIO_PIN_RESET);
+	  HAL_Delay(1000);
+	  HAL_GPIO_WritePin(GPIOA, GPIO_PIN_0, GPIO_PIN_SET);
+	  HAL_Delay(1000);
+}
+```
 
 
 
 
 ## OUTPUT  :
+![image](https://github.com/user-attachments/assets/c4a66712-ed6c-454e-8ccb-a9bbb92e443b)
+
  
  
  

@@ -103,9 +103,9 @@ while (1)
 
 ## OUTPUT  :
 ![image](https://github.com/user-attachments/assets/c4a66712-ed6c-454e-8ccb-a9bbb92e443b)
+![image](https://github.com/user-attachments/assets/4a757bd2-e35f-49db-95a3-9af76cc80727)
 
 ![image](https://github.com/user-attachments/assets/ac87b73a-a28f-43e3-8e5c-42ccdb26a0c9)
-![image](https://github.com/user-attachments/assets/4a757bd2-e35f-49db-95a3-9af76cc80727)
 
 
 
